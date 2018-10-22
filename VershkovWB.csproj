@@ -50,7 +50,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IProgressReportObserver.cs" />
-    <Compile Include="SpreadsheetColumnDescription.cs" />
     <Compile Include="WBReportExcel.cs" />
     <Compile Include="WBReportProcessor.cs" />
     <Compile Include="WBReportProcessorForm.cs">
